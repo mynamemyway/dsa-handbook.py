@@ -1,2 +1,4 @@
 # Ignore
 lessons/
+.vscode/
+.pytest_cache
