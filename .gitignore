@@ -4,3 +4,4 @@ lessons/
 .pytest_cache
 
 temp.md
+.DS_Store
